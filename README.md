@@ -3,7 +3,7 @@
 ### INTRODUCTION ###
 We have been given a project for a Real Estate. In the project, we must use multiple linear regression modeling to analyze house sales in a northwestern county.
 
-## BUSINESS UNDERSTANDING / PROBLEM ##
+### BUSINESS UNDERSTANDING / PROBLEM ###
 We need to advise homeowners about how home renovations might increase the estimated value of their homes, and how to price their property.
 
 ## OBJECTIVES ##
