@@ -6,13 +6,13 @@ We have been given a project for a Real Estate. In the project, we must use mult
 ### BUSINESS UNDERSTANDING / PROBLEM ###
 We need to advise homeowners about how home renovations might increase the estimated value of their homes, and how to price their property.
 
-## OBJECTIVES ##
+### OBJECTIVES ###
 As a data scientist, you are to build multiple linear regression models that will predict the dependent variable which is the house sale price
 against the various independent variable that we have been given in the dataset.
 
 To see the relationship between them.
 
-## SPECIFIC OBJECTIVES ##
+### SPECIFIC OBJECTIVES ###
 
 To look for variables that are affecting housing prices.
 
